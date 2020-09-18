@@ -12,3 +12,9 @@
 * Used HTML Canvas to design applications
 * Learned how to work in a team to achieve results
 
+##### SKILLS
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Python 3
