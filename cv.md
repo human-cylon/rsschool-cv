@@ -1,8 +1,6 @@
 ## **Alina Soboleva**
 
-___
-
-### CONTACT INFORMATION
+#### CONTACT INFORMATION
 * *phone*: 89310032172
 * *email*: alina.soboleva.spb@gmail.com
 * *discord*: alinas
