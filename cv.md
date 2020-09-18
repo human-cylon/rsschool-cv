@@ -19,6 +19,9 @@
 * PHP
 * Python 3
 
+##### CODE
+My code is available for review on [CodePen](https://codepen.io/alina-soboleva)
+
 ##### EDUCATION
 * Rolling Scopes School 2020 - Frontend Development
 * W3Schools
