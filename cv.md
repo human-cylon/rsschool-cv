@@ -18,3 +18,8 @@
 * JavaScript
 * PHP
 * Python 3
+
+##### EDUCATION
+* Rolling Scopes School 2020 - Frontend Development
+* W3Schools
+
