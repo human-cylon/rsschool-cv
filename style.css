@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 64rem;
+    background-color: #FFFFFB;
+    color: #434342;
+}
+
+.aside {
+    width: 35%;
+    background-color: #434342;
+    color: #FFFFFB;
+    text-align: right;
+}
+
+.aside__heading {
+    color: #A9E3E3;
+}
+
+.aside-text {
+    
+}
+
+.name {
+    font-size: 2rem;
+}
